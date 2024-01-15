@@ -1,0 +1,19 @@
+{
+  "name": "lesson2",
+  "version": "1.0.0",
+  "description": "COMP2106 Lesson 2",
+  "main": "tax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon tax.js"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "ifotn",
+  "license": "ISC",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "weather-js": "^2.0.0"
+  }
+}
